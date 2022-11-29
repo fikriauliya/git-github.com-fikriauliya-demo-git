@@ -1,2 +1,2 @@
-Selamat pagi
-Selamat sore
+Selamat pagi!
+Selamat sore!
